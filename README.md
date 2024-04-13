@@ -1,2 +1,1 @@
-# project003_atm
-This is simple ATM code for balance inquiry and amount withdrawal.
+"# ATM Code for money withrawal and balance inquiry" 
