@@ -53,7 +53,7 @@
                     {
                         name:"otherAmount",
                         type: "number",
-                        message:"enter amount"
+                        message:"Enter amount"
                     }
                 ])
                 if (answers.otherAmount<=balance){
